@@ -1,0 +1,20 @@
+.header {
+    background-color: #1F2937;
+    color: #F9FAF8;
+
+}
+.flex-header {
+    flex: 1;
+    size: 24px;
+    display: flex;
+    gap: 200px;
+}
+.flex-links {
+    flex: 1;
+    display: flex;
+    gap: 20px;
+}
+.subtext {
+    color: #E5E7EB;
+    size: 18px;
+}
