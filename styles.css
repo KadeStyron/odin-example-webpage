@@ -7,14 +7,41 @@
     flex: 1;
     size: 24px;
     display: flex;
-    gap: 200px;
+    gap: 400px;
 }
 .flex-links {
     flex: 1;
     display: flex;
     gap: 20px;
 }
+.flex-comment {
+    display: flex;
+    padding: 40px;
+    justify-content: center;
+}
 .subtext {
-    color: #E5E7EB;
+    color: #9b9da0;
     size: 18px;
 }
+#textHeader {
+    flex: 1;
+    size: 48px;
+    max-width: 300px;
+    flex-wrap: wrap;
+}
+.button {
+    background-color: #3883F6;
+    border: none;
+}
+.mid-section {
+    justify-content: center;
+}
+.info-title {
+    gap: 20px;
+    size: 36px;
+    color: #1F2937;
+    font-weight: extra-bold;
+    margin: auto;
+    width: 30%;
+}
+
